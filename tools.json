@@ -1,0 +1,20 @@
+[
+
+{
+    "use":"subdomain",
+    "tools":[
+            "https://github.com/tomnomnom/assetfinder",
+            "https://github.com/projectdiscovery/subfinder",
+            "https://github.com/OWASP/Amass"
+            ]
+
+},
+{
+    "use":"wordlists",
+    "tools":[
+        "https://wordlists.assetnote.io/"
+    ]
+
+}
+
+]
